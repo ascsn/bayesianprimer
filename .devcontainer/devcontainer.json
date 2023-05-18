@@ -5,10 +5,10 @@
         "vscode": {
             //"settings":{},
             "extensions": [
+                "ms-python.python@2023.8.0",
                 "github.codespaces@1.14.7",
                 "github.github-vscode-theme@6.3.4",
                 "github.vscode-pull-request-github@0.65.2023051809",
-                "ms-python.python@2023.8.0",
                 "ms-toolsai.jupyter-keymap@1.1.0",
                 "ms-toolsai.vscode-jupyter-slideshow@0.1.5",
                 "ms-python.vscode-pylance@2023.5.30",
