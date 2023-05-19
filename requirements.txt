@@ -1,4 +1,2 @@
 corner
-matplotlib
-scipy
-sklearn
+
