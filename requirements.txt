@@ -1,1 +1,4 @@
 corner
+matplotlib
+scipy
+sklearn
